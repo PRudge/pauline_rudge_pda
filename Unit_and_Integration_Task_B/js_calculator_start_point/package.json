@@ -14,11 +14,11 @@
   "dependencies": {
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
-    "express": "^4.14.0",
+    "express": "^4.17.1",
     "mocha": "^5.2.0",
-    "nodemon": "^1.18.10",
-    "protractor": "^5.4.0",
-    "server": "^1.0.18",
+    "nodemon": "^1.19.4",
+    "protractor": "^5.4.3",
+    "server": "^1.0.27",
     "webdriver-manager": "^10.2.7"
   },
   "main": "conf.js",
